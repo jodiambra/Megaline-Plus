@@ -30,3 +30,5 @@ We see that the mean revenue of customers in New York appears to be similar to t
 Overall, the Ultimate plan is not very popular. As such, maybe it would be beneficial to test a middle tier plan, in order to capture customers who may be dismayed by the gap in plan prices. Another method that would lead to increased revenue would be to slightly increase the overage fees on the Surf plan. Yet, a smart revenue strategy remains in rounding up minutes, and more substantially, rounding up data used to the nearest gigabyte. Data usage appears to be the largest contributor to revenue.
 
 Finally, Hypothesis testing suggests the mean of the call durations and number of messages were not different. On the other hand, internet traffic is different, when conducting statistical tests on the means.
+
+https://jodiambra.github.io/Megaline-Plus-EDA/
