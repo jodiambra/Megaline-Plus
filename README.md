@@ -31,4 +31,4 @@ Overall, the Ultimate plan is not very popular. As such, maybe it would be benef
 
 Finally, Hypothesis testing suggests the mean of the call durations and number of messages were not different. On the other hand, internet traffic is different, when conducting statistical tests on the means.
 
-https://jodiambra.github.io/Megaline-Plus-EDA/
+## [Web Notebook](https://jodiambra.github.io/Megaline-Plus-EDA/)
